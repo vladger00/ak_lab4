@@ -1,0 +1,5 @@
+/home/vlad/ak_lab4/CMakeFiles/rebuild_cache.dir
+/home/vlad/ak_lab4/CMakeFiles/edit_cache.dir
+/home/vlad/ak_lab4/CMakeFiles/main.dir
+/home/vlad/ak_lab4/CMakeFiles/hello.dir
+/home/vlad/ak_lab4/CMakeFiles/factorial.dir
